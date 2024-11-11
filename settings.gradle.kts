@@ -19,5 +19,11 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "Greetings Card"
 include(":app")
+=======
+rootProject.name = "Happy Birthday"
+include(":app")
+ 
+>>>>>>> e2ca147 (HappyBirthdayFiles)

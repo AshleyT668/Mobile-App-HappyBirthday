@@ -5,11 +5,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.greetingscard"
     compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.greetingscard"
+=======
+    namespace = "com.example.happybirthday"
+    compileSdk = 34
+
+    defaultConfig {
+        applicationId = "com.example.happybirthday"
+>>>>>>> e2ca147 (HappyBirthdayFiles)
         minSdk = 24
         targetSdk = 34
         versionCode = 1
